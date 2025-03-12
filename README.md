@@ -2,7 +2,7 @@
 Волейболист
 
 # Состав группы: 
-Лоднева Екатерина (github: elodneva), Гончаренко Елизавета (github: ), Ивашкина Мария (github: mriaiv), Семеркова Яна (github: YanaSemerkova)
+Лоднева Екатерина (github: elodneva), Гончаренко Елизавета (github: elizavetagoncharenko), Ивашкина Мария (github: mriaiv), Семеркова Яна (github: YanaSemerkova)
 
 # Идея компании: 
 Сдача в аренду волейбольной площадки внутри ТТК
